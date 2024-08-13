@@ -1,5 +1,6 @@
 {
-     "dependencies": {
-       "axios": "^0.21.1"
-     }
-   }
+  "name": "symptomatic-functions",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
